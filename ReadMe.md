@@ -6,7 +6,7 @@ Spring Boot  Project
 
 ## PROJE DIAGRAM
 
-![emlakcepteDiagram.png](..%2F..%2FDesktop%2Fproject%20assignment%2FemlakcepteDiagram.png)
+![emlakcepteDiagram](https://user-images.githubusercontent.com/107810135/211197279-56ee02bf-090a-4ec6-9032-9a08f66ad9a8.png)
 
 
  ```
@@ -73,38 +73,34 @@ yeni geçerlilik tarihi, kalan geçerlilik tarihinin üzerine bir ay olarak ekle
 * İlk etapta Discovery Server ayağa kaldırılır ve böylece Eureka yani bağlı olduğumuz microservislerin ayakta 
 olanlarının portlarını rahat bir şekilde görebiliriz.
 
-!EurekaServer.png
+![EurekaServer](https://user-images.githubusercontent.com/107810135/211197298-c6573f75-5de9-455f-815e-aebdb4c26258.png)
 
  <hr>
 
 * İkinci olarak Api-Gateway ayağa kaldırılır.
 
 
-
-
-
-
 <hr>
 
 ## Postman Üzerinden Atılan İsteklere Örnekler;
 
-![products-post.png](..%2F..%2FDesktop%2Fproject%20assignment%2Fproducts-post.png)
+![products-post](https://user-images.githubusercontent.com/107810135/211197308-8993144b-faec-412f-b9ce-a253fb7b7c7b.png)
 
-![products-get.png](..%2F..%2FDesktop%2Fproject%20assignment%2Fproducts-get.png)
+![products-get](https://user-images.githubusercontent.com/107810135/211197310-1722be40-85c2-4a32-a600-1dbcc4e0dcf8.png)
 
-![users-post.png](..%2F..%2FDesktop%2Fproject%20assignment%2Fusers-post.png)
+![users-post](https://user-images.githubusercontent.com/107810135/211197315-0b150ed7-fd3a-4720-a2bb-a4252f560dfb.png)
 
-![users-get.png](..%2F..%2FDesktop%2Fproject%20assignment%2Fusers-get.png)
+![users-get](https://user-images.githubusercontent.com/107810135/211197322-05a493ae-f753-4719-9d35-2bb554da8bc8.png)
 
-![users-getAll.png](..%2F..%2FDesktop%2Fproject%20assignment%2Fusers-getAll.png)
-
+![users-getAll](https://user-images.githubusercontent.com/107810135/211197329-b7e015f3-046d-4498-a76c-6bb5f3742eaa.png)
 
 
 <br><hr>
 
 ## Postgres Üzerinde Oluşan Tablolarımız;
 
-![postgres-tablolar.png](..%2F..%2FDesktop%2Fproject%20assignment%2Fpostgres-tablolar.png)
+![postgres-tablolar](https://user-images.githubusercontent.com/107810135/211197337-e8f8e719-d5b0-4382-9416-486f104ba70f.png)
+
 
 
 
