@@ -97,7 +97,7 @@ olanlarının portlarını rahat bir şekilde görebiliriz.
 
 <br><hr>
 
-## Postgres Üzerinde Oluşan Tablolarımız;
+## Postgres Üzerinde Oluşan Tablolar;
 
 ![postgres-tablolar](https://user-images.githubusercontent.com/107810135/211197337-e8f8e719-d5b0-4382-9416-486f104ba70f.png)
 
