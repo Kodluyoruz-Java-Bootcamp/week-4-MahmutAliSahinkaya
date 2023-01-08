@@ -73,7 +73,7 @@ yeni geçerlilik tarihi, kalan geçerlilik tarihinin üzerine bir ay olarak ekle
 * İlk etapta Discovery Server ayağa kaldırılır ve böylece Eureka yani bağlı olduğumuz microservislerin ayakta 
 olanlarının portlarını rahat bir şekilde görebiliriz.
 
-![EurekaServer.png](..%2F..%2FDesktop%2Fproject%20assignment%2FEurekaServer.png)
+!EurekaServer.png
 
  <hr>
 
